@@ -67,16 +67,6 @@ let newArray = Array.from(elementyListy, element => {
 
 
 
-// Stwórz trzy tablice:
-
-// 1. Pierwsza zawiera tylko obiekty z linkami z domeną .pl
-// 2. Druga zawiera obiekty z linkami z domeną .com
-// 3. Trzecia zawiera obiekty z linkami wewnętrznymi
-
-
-
-
-
 // let kwiaty = [`goździki`, `róże`, `piwonie`];
 // console.log(kwiaty);
 
@@ -116,6 +106,11 @@ let newArray = Array.from(elementyListy, element => {
 
 
 
+
+
+
+
+// Stwórz trzy tablice:
 
 // 1. Pierwsza zawiera tylko obiekty z linkami z domeną .pl
 
